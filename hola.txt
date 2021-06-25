@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Critian el hermoso
 
 Bernardino delmo 
+=======
+cristian el puto
+
+
+mi primer git pull que hago!!!!
