@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Critian el hermoso
 
 Bernardino delmo 
@@ -8,3 +9,8 @@ cristian el puto
 
 mi primer git pull que hago!!!!
 miguel
+=======
+prueba
+ 
+hola mundo!!!!
+>>>>>>> 2d3690ad8e5ec5a704f46b1577e4c47f5a8c0f11
