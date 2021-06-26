@@ -1,0 +1,76 @@
+# Clinica la Morenita
+# Instituto Tecnológico Superior de Teposcolula
+# Ingeniería en Sistemas Computacionales
+
+
+Realizado por 
+
+Cristian Santiago Luis
+
+Miguel Garcia Garcia
+
+Bernardino Garcia Zuñiga
+
+
+
+
+Realizado para
+La materia de ingeniería de software 
+
+
+
+
+
+Docente
+Ingeniero David Vázquez Ayala
+
+
+Pagina web Clinica la Morenita
+    
+Visual Studio Code: Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
+ 
+PHP:  Es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web.​ Fue creado inicialmente por el programador danés-canadiense Rasmus Lerdorf en 1994.​ En la actualidad, la implementación de referencia de PHP es producida por The PHP Group
+ PHP de algo del lado del cliente como Javascript es que el código es ejecutado en el servidor, generando HTML y enviándolo al cliente. 
+
+Java Script: Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+Xamp: Es una herramienta de desarrollo que te permite probar tu desarrollo web basado en PHP en tu propio ordenador sin necesidad de tener acceso a internet. Si eres un diseñador web o desarrollador web que recién está comenzando, no es necesario saber sobre las configuraciones de servidores (aun), ya que XAMPP te provee de una configuración totalmente funcional desde el momento que lo instalas. Básicamente lo extraes y listo. 
+
+
+Pasos para ejecutar las pruebas requeridas de este repositorio
+
+
+
+1.- Verificar si se tiene instalado el visual studio code
+En caso de no contar con este IDE, ir al siguiente link donde se podrá descargar.
+https://code.visualstudio.com/
+
+2.- Una vez  instalado el  visual studio  code buscamos en la parte del buscador que nos ofrece  en la parte de extenciones
+buscamos PHP EXTENSION PACK  donde debemos instalar el php en visual code 
+
+3.- Descargamos el Gestor a ocupar en este caso es XAMPP y lo instalamos
+https://www.apachefriends.org/es/index.html
+
+4. Descargamos AdminLTE Bootstrap es una plantilla  a ocupar para el proyecto:
+https://adminlte.io/
+
+3.- Clonar el repositorio en el equipo a utilizar,
+-Abrimos la consola de git bash y ponemos el siguiente comando:
+
+git  clone https://github.com/Mgg2-ui/Sistema-Web-Clinica.git
+
+4.- Al clonar el repositorio, abrimos la aplicación de visual studio code y abrimos el proyecto, yéndonos a donde fue clonado el repositorio.
+
+5.- El proyecto será abierto y se podrá Ejecutar
+
+Notas:
+Las carpetas del proyecto estan  y en el IDE de visual studio code   y en  xampp :
+-En Xampp nos vamos a la carpeta htdocs donde cree el proyecto  le llame clinica
+-clm:donde contrendra los archivos que se van a ocupar para programar la pagina web
+*admin_lite esta carpeta va tener la plantilla que se esta utilizando para crear la pagina web
+-css : hojas de estilos de la pagina web
+-images: esta carpeta tendra las imagenes del proyecto
+
+
+Anuncio
+En Fechas posteriores a 18/06/2021 será subido  la plantilla para ser probada de manera directa en visual studio.
